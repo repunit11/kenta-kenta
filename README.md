@@ -7,7 +7,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kenta-kenta&theme=onedark&show_icons=ture" />
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,go,react,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,react,ts,py,laravel)](https://skillicons.dev)
 <!---
 kenta-kenta/kenta-kenta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
